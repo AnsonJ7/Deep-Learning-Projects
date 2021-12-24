@@ -13,4 +13,4 @@ Furthermore, these existing methods generally cannot differentiate between human
 - keras
 - tensorflow
 
-### Best F1 Score: 90
+### Best F1-Beta Score: 88.21
